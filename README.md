@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hnin Thandar Khine
 - 👀 I’m interested in Web Programming
-- 🌱 I’m currently learning html, css, javascript and java
+- 🌱 I’m currently learning html, css, javascript, java, amd python.
 - 📫 How to reach me hninthandarkhine36@gmail.com
 
 <!---
